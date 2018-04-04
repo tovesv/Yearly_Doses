@@ -1,11 +1,12 @@
 % Station Nyaalesund, yearly integrated doses and sampling fraction (0=complete loss of measurements, 1=lossfree measurement
 % All units except PAR: J/m^2. Units PAR: mol/m^2
-% Calculations and calibrations: Bjørn Johnsen, Statens strålevern (Norwegian Radiation Protection Authority
+% Station operated by NILU - Norwegian Institute for Air Research (E-mail: tove.svendby@nilu.no)
+% Calculations and calibrations: BjÃ¸rn Johnsen, Statens strÃ¥levern (Norwegian Radiation Protection Authority
 % E-mail: Bjorn.Johnsen@nrpa.no
 %
 % Actionspectra:
 % CIE1987: Erythema action spectrum: A.F. McKinlay, A.F. and B.L. Diffey, A reference action spectrum for ultraviolet induced erythema in human skin", CIE Research Note, 6(1), 17-22, 1987
-% CIE1998: Erythema action spectrum: Commission Internationale de l’Eclairage (1998) Erythema Reference Action Spectrum and Standard Erythema Dose. CIE S007E-1998. CIE Central Bureau, Vienna, Austria
+% CIE1998: Erythema action spectrum: Commission Internationale de lâ€™Eclairage (1998) Erythema Reference Action Spectrum and Standard Erythema Dose. CIE S007E-1998. CIE Central Bureau, Vienna, Austria
 % UVB: ISO 21348 Definitions of Solar Irradiance Spectral Categories (280<=Wl<315 nm)
 % UVA: ISO 21348 Definitions of Solar Irradiance Spectral Categories (315<=Wl<400 nm)
 % NMSC: ISO/FDIS 28077:2016E Photocarcinogenesis Action Spectrum, (Non-Melanoma Skin Cancers, NMSC). CIE Central Bureau, Vienna
